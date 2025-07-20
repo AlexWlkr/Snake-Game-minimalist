@@ -1,8 +1,6 @@
 // Define HTML elements
 const board = document.getElementById('game-board');
 
-console.log(board);
-/*
 // Define game variables
 let snake = [{x: 10, y: 10}];
 
@@ -36,4 +34,3 @@ function setPosition(element, position) {
 
 //Testing draw function 
 draw();
-*/

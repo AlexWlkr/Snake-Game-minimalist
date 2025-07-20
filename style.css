@@ -9,8 +9,7 @@ body {
     font-family: "VT323", monospace;
 }
 
-body,
-.snake {
+body {
     background-color: #bc6c25;
 }
 
@@ -85,6 +84,7 @@ background-color: #fefae0;
 
 .snake {
     border: #35211c 1px dotted;
+    background-color:#35211c;
 }
 
 .food {
@@ -95,3 +95,6 @@ background-color: #fefae0;
 #logo {
     position: absolute;
 }
+
+
+/*#35211c; #bc6c25; */
