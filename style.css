@@ -83,7 +83,7 @@ background-color: #fefae0;
 }
 
 .snake {
-    border: #35211c 1px dotted;
+    border: #bc6c25 1px dotted;
     background-color:#35211c;
 }
 
@@ -95,6 +95,3 @@ background-color: #fefae0;
 #logo {
     position: absolute;
 }
-
-
-/*#35211c; #bc6c25; */
